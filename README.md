@@ -3,11 +3,11 @@ A minimal, responsive personal website built entirely with pure HTML and CSS to 
 
 ✨ Features
 
-Pure HTML & CSS: Zero external JavaScript, dependencies, or bloated frameworks.
+Pure HTML & CSS: Zero external JavaScript.
 
 Responsive Layout: Optimized to look great on mobile, tablet, and desktop screens.
 
-Clean Design: Simple, modern styling focused on readability and speed.
+Clean Design: Simple and modern styling .
 
 🛠️ Tech Stack
 
