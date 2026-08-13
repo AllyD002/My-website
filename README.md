@@ -1,2 +1,16 @@
-Hi guys!
-So this is my first ever HTML web.
+🌐 Personal Website
+A minimal, responsive personal website built entirely with pure HTML and CSS to showcase my portfolio and contact info.
+
+✨ Features
+Pure HTML & CSS: Zero external JavaScript, dependencies, or bloated frameworks.
+
+Responsive Layout: Optimized to look great on mobile, tablet, and desktop screens.
+
+Clean Design: Simple, modern styling focused on readability and speed.
+
+🛠️ Tech Stack
+Structure: HTML5
+
+Styling: CSS3
+
+Hosting: GitHub Pages
