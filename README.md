@@ -7,7 +7,7 @@ Pure HTML & CSS: Zero external JavaScript.
 
 Responsive Layout: Optimized to look great on mobile, tablet, and desktop screens.
 
-Clean Design: Simple and modern styling .
+Clean Design: Simple and modern styling.
 
 🛠️ Tech Stack
 
