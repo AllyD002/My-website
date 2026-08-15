@@ -13,4 +13,4 @@ I worked through the StarDance guide to learn how web pages are structured and s
 ## Running Locally
 Just open `index.html` directly in any web browser.
 
-[StarDance Guide](https://stardance.hackclub.com)
+[StarDance Website](https://stardance.hackclub.com)
