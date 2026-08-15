@@ -1,18 +1,16 @@
-🌐 Personal Website
-A minimal, responsive personal website built entirely with pure HTML and CSS to showcase my projects.
+# Personal Website
 
-✨ Features
+This is my personal website built with standard HTML and CSS following the StarDance guide.
 
-Pure HTML & CSS: Zero external JavaScript.
+## How I Built This
+I worked through the StarDance guide to learn how web pages are structured and styled from scratch. I built the main layout using HTML and added custom styles using CSS to make it look clean.
 
-Responsive Layout: Optimized to look great on mobile, tablet, and desktop screens.
+## What I Learned
+- Structuring content with HTML
+- Styling layouts CSS
+- Making basic responsive adjustments for smaller screens
 
-Clean Design: Simple and modern styling.
+## Running Locally
+Just open `index.html` directly in any web browser.
 
-🛠️ Tech Stack
-
-Structure: HTML5
-
-Styling: CSS3
-
-Hosting: GitHub Pages
+[StarDance Guide](https://stardance.hackclub.com)
